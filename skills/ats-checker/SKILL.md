@@ -1,4 +1,3 @@
-
 ---
 name: ats-checker
 description: Evaluates a candidate's original LaTeX CV against a supplied job description and produces a transparent ATS-alignment report. Identifies matched requirements, missing or weakly supported skills, keyword coverage, experience relevance, qualification gaps, and document parsing risks. Uses the actual .tex source as the candidate source of truth, avoids fabricated qualifications, and recommends prioritized improvements without modifying the original CV. Use when checking resume ATS compatibility, job-description matching, resume keywords, or application readiness.

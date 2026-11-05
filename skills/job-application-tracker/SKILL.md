@@ -1,4 +1,3 @@
-
 ---
 name: job-application-tracker
 description: Maintains an advanced local job application tracking system with a master CSV database, append-only activity history, follow-up management, and weekly and monthly analytics. Integrates with job-finder, ats-checker, cv-tailor, cover-letter, and cold-mail workflows by reusing their available outputs. Tracks opportunities from discovery through application, interviews, offers, and rejection. Use when recording applications, updating application statuses, managing recruiter follow-ups, synchronizing job search results, or analyzing job search performance.

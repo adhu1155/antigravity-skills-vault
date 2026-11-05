@@ -1,4 +1,3 @@
-
 ---
 name: cv-tailor
 description: Tailors the user's existing LaTeX CV to a specific job description using the original .tex source as the source of truth. Produces a separate, job-specific .tex file while preserving the original CV's layout, design, typography, macros, and formatting. Optimizes the relevance of skills, experience, project descriptions, and keywords without fabricating qualifications or achievements. Use when customizing a resume or CV for a specific job application.

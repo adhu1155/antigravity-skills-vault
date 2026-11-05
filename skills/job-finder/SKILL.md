@@ -1,4 +1,3 @@
-
 ---
 name: job-finder
 description: Finds and verifies current job openings tailored to the user's LaTeX CV, technical skills, experience, and career preferences. Searches company career pages and accessible job boards, evaluates role fit, checks posting freshness and location or sponsorship information, removes duplicate listings, and produces a ranked shortlist with direct application links. Use when searching for jobs, finding relevant vacancies, discovering Data Engineer roles, or building a targeted job-search shortlist.

@@ -1,4 +1,3 @@
-
 ---
 name: cold-mail
 description: Creates personalized, professional job-search cold emails using the user's local CV and supplied company details. Use when contacting recruiters, hiring managers, founders, engineering managers, or other company decision-makers about potential job opportunities. Produces concise emails that highlight genuine candidate strengths, demonstrate company-specific value, and encourage the recipient to review the resume without exaggeration or fabricated claims.

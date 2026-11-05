@@ -1,4 +1,3 @@
-
 ---
 name: cover-letter
 description: Writes tailored, professional job application cover letters using the candidate's local CV and the supplied job description, company details, and role requirements. Matches genuine skills and experience to employer needs, demonstrates credible value, and explains motivation without inventing qualifications or achievements. Use when preparing a job application cover letter, employment application statement, or role-specific application letter.
