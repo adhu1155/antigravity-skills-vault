@@ -1,0 +1,16 @@
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Node / Python temporary files if skills contain scripts
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
